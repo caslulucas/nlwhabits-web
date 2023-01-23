@@ -1,9 +1,9 @@
 
 
 # Sobre o projeto
+Criação de hábitos diários.
 
-
-
+Projeto desenvolvido partindo do evento NLW-SETUP organizado pela @rocketseat
 
 ## Layout web
 
